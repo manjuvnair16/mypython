@@ -11,3 +11,8 @@ array1 = [True,  True,  True,  False,
           False, False, True,  True ];
 
 print(count_sheeps(array1))
+
+
+'''console log
+17
+'''
