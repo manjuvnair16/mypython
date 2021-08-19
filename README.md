@@ -1,3 +1,3 @@
 # python
 
-My Python codes from freeCodeCamp Python certification tutorial and Codewars katas
+My Python code from freeCodeCamp Python certification tutorial and Codewars katas
